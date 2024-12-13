@@ -1,4 +1,6 @@
 # Puzzle_a_day
+![image](https://github.com/user-attachments/assets/dd9fb6c2-cc69-4ffe-b464-2c080f0e8fb8)
+
 A set of Adobe Illus. plans to make a "Puzzle a Day"
 
 You can use a laser cutter to engrave and cut out the BASE.  You can use any material that your laser 
