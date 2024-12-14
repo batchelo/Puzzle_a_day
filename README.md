@@ -1,5 +1,6 @@
 # Puzzle_a_day
 ![image](https://github.com/user-attachments/assets/dd9fb6c2-cc69-4ffe-b464-2c080f0e8fb8)
+![image](https://github.com/user-attachments/assets/6370c7ca-663f-4540-848d-a67b671bb462)
 
 A set of Adobe Illus. plans to make a "Puzzle a Day"
 
